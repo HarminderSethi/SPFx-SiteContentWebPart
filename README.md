@@ -1,6 +1,6 @@
 ## site-content
 
-This is where you include your WebPart documentation.
+![Alt Text](https://github.com/HarminderSethi/SPFx-SiteContentWebPart/blob/master/Untitled.gif)
 
 ### Building the code
 
